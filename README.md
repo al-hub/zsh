@@ -41,7 +41,7 @@ sudo chmod 777 ~/.oh-my-zsh/tools/uninstall.sh
 
 
 ## Results
-
+screenshot  
 ![result](doc/zsh.jpg)
 
 
